@@ -32,10 +32,9 @@ Minha abordagem é criar soluções para protetos e empresas.
 ## Como me encontrar:
 <div align="center">
 <a href="mailto:landersouza@gmail.com">
-<img src="https://img.shields.io/badge/Email-oliverlucas983%40gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-landersouza@hotmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/lander-torres-724559b3/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Lucas%20Lessa%20Oliveira-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 </div>
  
