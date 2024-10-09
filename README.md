@@ -42,10 +42,10 @@ Minha abordagem é criar soluções para protetos e empresas.
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lessa1717&show_icons=true&theme=dark)
  
 ## Linguagens mais utilizadas
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lessa1717&layout=compact&theme=dark)
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=landertorres&layout=compact&theme=dark)
  
 ## Contribuições recentes
-![Contribuições recentes](https://github-readme-streak-stats.herokuapp.com/?user=lessa1717&theme=dark)
+![Contribuições recentes](https://github-readme-streak-stats.herokuapp.com/?user=landertorres&theme=dark)
  
 ---
  
