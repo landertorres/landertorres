@@ -5,7 +5,7 @@
 - 🎓 Estudei no Instituto Adventista de Manaus.
 - 💼 Atualmente sou estudante de desenvolvimento Full Stack pelo Senai. 
  
-Comecei minha jornada no desenvolvimento de sistemas em 2024 e busco oportunidade na área de tecnologia.
+Comecei minha jornada no desenvolvimento de sistemas em 2024 buscando uma aprendizado contínuo na área de tecnologia.
  
 Minha abordagem é criar soluções para protetos e empresas.
 ## Habilidades:
