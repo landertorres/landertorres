@@ -7,7 +7,7 @@
  
 Comecei minha jornada no desenvolvimento de sistemas em 2024 buscando uma aprendizado contínuo na área de tecnologia.
  
-Minha abordagem é criar soluções para protetos e empresas.
+Minha abordagem é criar soluções para projetos de empresas.
 ## Habilidades:
 <div align="center" style="display: inline_block">
   ### Linguagens e Ferramentas:
